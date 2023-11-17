@@ -56,10 +56,10 @@ img {
 
 .dropdown-content {
     align-items: center;
-    list-style-type: none;/* esto hace que no se visualice los numeros de la lista */
+    list-style-type: none;
     padding: 0;
     left: 0;
-    opacity: 0; /*esto hace que se contenga la lista en Visualizar*/
+    opacity: 0;
     text-align: center;
     top: 0;
     
@@ -123,7 +123,6 @@ a {
         text-decoration: none;
         cursor: pointer;
         height: 40px;
-        /*  line-height: 30px; */
         position: relative;
         width: 270px;
         text-align: center;
